@@ -5,7 +5,7 @@ This set of Python scripts provides tools for performing numerical integration u
 
 ---
 
-## `GaussQuad.py`
+## `src/GaussQuad.py`
 
 ### Description
 This file defines classes and methods for computing basis polynomials and performing Gauss Quadrature integration. It supports both Legendre and Chebyshev polynomials.
@@ -27,7 +27,7 @@ When using `GaussQuadrature.generate_and_save()`, the script generates a CSV fil
 
 ---
 
-## `comparisons.py`
+## `src/Comparisons.py`
 
 ### Description
 This file contains functions to compare the performance of various numerical integration methods.
